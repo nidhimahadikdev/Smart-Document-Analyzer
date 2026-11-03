@@ -1,0 +1,30 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env
+!.env.example
+
+# Vector Stores & Local Index Storage
+chroma_db/
+chroma_db*/
+faiss_index/
+*.pkl
+
+# Streamlit runtime secrets / local cache
+.streamlit/secrets.toml
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

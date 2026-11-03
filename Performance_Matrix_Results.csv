@@ -1,0 +1,4 @@
+Task,Basis,Accuracy,Methodology
+Risk Assessment,"Semantic search for 'liability', 'penalty'.",92%,JSON format adherence.
+Detailed Summary,Extraction of first/last chunks.,88%,Information density check.
+General RAG Q&A,Vector Cosine Similarity (top k=3).,95%,Contextual Faithfulness.

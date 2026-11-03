@@ -1,0 +1,13 @@
+streamlit
+plotly
+langchain
+langchain-community
+chromadb
+pymupdf
+python-dotenv
+pandas
+duckduckgo-search
+reportlab
+langchain-ollama
+langchain-huggingface
+sentence-transformers
